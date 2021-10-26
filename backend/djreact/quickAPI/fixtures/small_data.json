@@ -1,0 +1,13 @@
+[
+    {
+    "model": "quickAPI.data",
+    "pk": 1,
+    "fields": {
+        "mainId":"14BFZbhll-FoIcjSdx-3aj91o",
+        "timestamp":1622505600000,
+        "srcId":"source42",
+        "metric_1":120.95980703709384,
+        "metric_2":130.96798936695282
+        }
+    }
+]
